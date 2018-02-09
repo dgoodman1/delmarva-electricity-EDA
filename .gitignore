@@ -1,2 +1,4 @@
 __pycache__/
-Folder/.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints
+.ipynb_checkpoints/
+*.h5
